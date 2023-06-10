@@ -1,1 +1,1 @@
-# CI [![Build status](https://ci.appveyor.com/api/projects/status/17tj9bi71lyf5rel?svg=true)](https://ci.appveyor.com/project/8highflyer8/aqawebselenium2-1)
+# CI [![Build status](https://ci.appveyor.com/api/projects/status/j7qdbetacrtj0rcr?svg=true)](https://ci.appveyor.com/project/8highflyer8/aqaselenide2-2)
